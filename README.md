@@ -11,4 +11,4 @@ Characteristics of someone with a growth mindset would include:
 * Changes & challenges in life are to be embraced if you want to succeed.
 * Being motivated & inspired by someone who succeeds, rather than being jealous or making excuses.
 
-- [Find more information about maintaining a *__Growth Mindset__* here!](/
+- [More info on Growth Mindset...](/growthmindset.md)
