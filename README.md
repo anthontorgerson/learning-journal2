@@ -11,4 +11,13 @@ Characteristics of someone with a growth mindset would include:
 * Changes & challenges in life are to be embraced if you want to succeed.
 * Being motivated & inspired by someone who succeeds, rather than being jealous or making excuses.
 
+
 - [More info on Growth Mindset...](/growthmindset.md)
+
+
+## About Me
+
+My name is Anthon Torgerson. I'm 32 & live in Carroll, Iowa. I've worked at a screen print production facility since 2007 and as a production supervisor since 2014. I'm currently going to school for computer languages & coding and am looking forward to expanding my knowledge in this subject! :)
+
+Click [here](/https://github.com/anthontorgerson) to visit my Github profile!
+
