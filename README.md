@@ -1,4 +1,4 @@
-# Learning Journal
+# Reading Notes
 
 ## What is a Growth Mindset???
 
